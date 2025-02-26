@@ -10,3 +10,9 @@ O programa realiza as seguintes etapas:
 3. **Cálculo do Grau dos Vértices**: Calcula o grau de cada vértice.
 4. **Filtragem Iterativa**: Remove vértices com grau menor que `k` e atualiza os graus dos vértices adjacentes.
 5. **Saída**: Imprime os vértices que permanecem no grafo com grau maior ou igual a `k`. Se nenhum vértice atender ao critério, imprime `0`.
+
+## Importante
+
+O código foi feito como resolução de um exercício do beecrowd, portanto segue o link para vizualizar o problema: 
+
+https://www.beecrowd.com.br/repository/UOJ_1209.html
